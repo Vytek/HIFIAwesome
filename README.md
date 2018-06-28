@@ -17,3 +17,4 @@ Open Source Scripts
 Tutorials and Videos
 
 - [High Fidelity - MMD Import using Hifi-Community Add On for Blender](https://www.youtube.com/watch?v=tJX8VUPZLKQ)
+- [Little Course Hifi import Mesh in Italian](https://www.youtube.com/watch?v=eCLR97-i_Vg&list=PLXTK688RnbsGYEaBQvx8lNMU0ypqpP9ev)
