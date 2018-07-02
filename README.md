@@ -8,6 +8,11 @@ Exporter/Importer for Mesh/Avatars
 - [Makehuman avatar skeleton for high fidelity](https://github.com/roxanneskelly/hifi-makehuman-skeleton)
 - [FBXoMap 2: Plug the Transparency on the Diffuse map without open Blender.](https://vankh.bashora.com/2018/05/09/fbxomap-2-plug-the-transparency-on-the-diffuse-map-without-open-blender/)
 
+Tools
+
+- [Morph3D Ready Room VR to creating Avatars for HiFi](https://www.morph3d.com/morph-ready-room)
+- [Clara.io on HiFi](http://exocortex.com/blog/claraio_high_fidelity_vr_3d_model_library)
+
 Open Source Scripts
 
 - [Scripts from CTRLALTSTUDIO](http://ctrlaltstudio.com/hifi)
