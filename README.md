@@ -10,6 +10,7 @@ Exporter/Importer for Mesh/Avatars
 
 Tools
 
+- [High Fidelity VR Platform Build Scripts for Various Linux Distributions](https://github.com/OmegaHeron/hifi-buildscripts) 
 - [Morph3D Ready Room VR to creating Avatars for HiFi](https://www.morph3d.com/morph-ready-room)
 - [Clara.io on HiFi](http://exocortex.com/blog/claraio_high_fidelity_vr_3d_model_library)
 
