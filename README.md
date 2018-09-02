@@ -10,7 +10,9 @@ Exporter/Importer for Mesh/Avatars
 
 Tools
 
-- [High Fidelity VR Platform Build Scripts for Various Linux Distributions](https://github.com/OmegaHeron/hifi-buildscripts) 
+- [High Fidelity VR Platform Build Scripts for Various Linux Distributions](https://github.com/OmegaHeron/hifi-buildscripts)
+- [High Fidelity server build tool for CentOS 7](https://github.com/MidnightRift/hifi-server)
+- [Docker Service Bundle which creates a file upload interface for the Blender High Fidelity Plugin that allows one to upload files into ipfs network. Uses py-flask, python, postgres, ipfs and hifi metaverse api](https://github.com/Menithal/hifi-ipfs)
 - [Morph3D Ready Room VR to creating Avatars for HiFi](https://www.morph3d.com/morph-ready-room)
 - [Clara.io on HiFi](http://exocortex.com/blog/claraio_high_fidelity_vr_3d_model_library)
 
