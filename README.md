@@ -22,6 +22,7 @@ Open Source Scripts
 - [Simple visitor tracker for your High Fidelity domain.](https://vankh.bashora.com/2018/05/16/simple-visitor-tracker-for-your-high-fidelity-domain/) - [Mirror](https://web.archive.org/web/20180628080852/https://vankh.bashora.com/2018/05/16/simple-visitor-tracker-for-your-high-fidelity-domain/)
 - [Chat with your Second Life’s friends from High Fidelity](https://vankh.bashora.com/2018/02/20/chat-with-your-second-lifes-friends-from-high-fidelity/)
 - [A collection of scripts I am releasing open source for the High Fidelity VR Platform](https://github.com/FlameSoulis/hifi-open-scripts)
+- [Things that I've made for High Fidelity https://hifi.maki.cat](https://github.com/makitsune/hifi-things)
 
 Tutorials and Videos
 
